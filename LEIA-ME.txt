@@ -1,0 +1,19 @@
+HAHA XITE V2.0
+Arquivos do painel PWA.
+
+Como atualizar no GitHub Pages:
+1. Abra o repositório Sensi-crg7.
+2. Substitua index.html, manifest.webmanifest, sw.js e icon.svg pelos arquivos desta pasta.
+3. Faça Commit changes.
+4. Aguarde o GitHub Pages atualizar e abra https://xite7haha.github.io/Sensi-crg7/
+5. Feche e abra o app instalado. Se continuar antigo, limpe os dados/cache do site no Chrome e abra novamente.
+
+Recursos:
+- 4 estilos de mira apenas para pré-visualização.
+- Sensibilidade editável em duas colunas.
+- DPI apenas como referência.
+- Perfil e foto salvos localmente.
+- Tema e imagem de fundo escolhida na galeria.
+- Preferências salvas no armazenamento local do navegador.
+
+Aviso: não altera o Free Fire, não aplica mira sobre o jogo, não muda o DPI do Android e não oferece auto-aim ou trapaças.
